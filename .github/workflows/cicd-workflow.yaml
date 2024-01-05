@@ -8,9 +8,6 @@ jobs:
     name: Build Job
     runs-on: ubuntu-latest
     steps:
-      - name: Start build job
-        run: |
-          echo "Starting the build job."
       - name: 'Checkout'
         uses: actions/checkout@v2
       - name: 'Setup Java'
