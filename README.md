@@ -1,4 +1,6 @@
-## Micronaut 3.9.0 Documentation
+# cicd-demo
+
+[![cicd-demo](https://github.com/ZikaZaki/cicd-demo/actions/workflows/cicd-workflow.yaml/badge.svg)](https://github.com/ZikaZaki/cicd-demo/actions/workflows/cicd-workflow.yaml)
 
 - [User Guide](https://docs.micronaut.io/3.9.0/guide/index.html)
 - [API Reference](https://docs.micronaut.io/3.9.0/api/index.html)
